@@ -1,0 +1,14 @@
+
+    .fixedimg{
+      background: url(../Images/pexels-negative-space-97077.jpg) fixed no-repeat ;
+      height: 250px;
+      width: 100%;
+      background-size: cover;
+    } 
+.fixedimg2{
+background: url(../Images/Top-7-Programing-Languages-for-Web-Development.jpg) fixed no-repeat ;
+background-size: cover;
+
+}
+
+ 
